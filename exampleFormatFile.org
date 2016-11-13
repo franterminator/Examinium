@@ -1,0 +1,27 @@
+* 1.
+Definiciones ::
+  + Ancho de vía, ancho internacional y ancho iberico.
+  + Superstr/Infstr.
+  + Entreeje.
+  + Sobreancho.
+  + Galibo de obra.
+  + Asiento de vía.
+* 2.
+Entrevía: def y explica los efectos dt a la curva y peralte
+* 3.
+¿De que depende el número de traviesas que se pueden colocar en una vía?
+* 4.
+Ventajas e incovenientes de las juntas coordantes y alternadas
+* 5.
+Explica y dibuja en que consiste el juego de vía.
+Calculalo para una vía generica en España con una pestaña desgastadas
+de 22 mm.
+Recuerda que la distancia entre caras internas es 1569 mm.
+* 6.
+¿Porque se deen inclinar los carriles?
+* 7. 
+Funciones y elm que componen el camino de rodadura. ¿Hay alguna instalación
+ferroviaria que no esta incuida en el camion de rodarura?
+* 8.
+Ventajas e incovenientes eje ancho y estrecho. Que soluciones existen para
+la conexión entre vías de dif ancho.

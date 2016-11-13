@@ -1,0 +1,12 @@
+* Description
+This program read and parse txt programs (with specific format) with questions
+and the answers. Then the program show the questions and if you click the
+answers.
+* Usage
+It is a complementary program for study my subjects, but maybe can help 
+you too.
+* The format of the questions and answers txt file
+The idea is you use emacs org mode to do this files. However, it is not
+neccesary, if you follow the format.
+You can see the desire format in the file: exampleFormatFile.org
+If you no have a way to open the org files, change his extension to txt. 
