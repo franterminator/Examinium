@@ -158,6 +158,9 @@ public class Themes extends javax.swing.JFrame {
         } catch (NullPointerException np) {
             JOptionPane.showMessageDialog(null, "Error with themes dir.",
                     "WARNING!", JOptionPane.WARNING_MESSAGE);
+            int result = JOptionPane.showConfirmDialog(null, "Do you want create the folder themes?",
+                    "Solving problems with themes folder", JOptionPane.YES_NO_OPTION);
+            if (result==0) themesDir.mkdir();
         }
     }
     /**
